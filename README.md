@@ -1,0 +1,1 @@
+# for-loop-sum-of-the-square-of-n-number
